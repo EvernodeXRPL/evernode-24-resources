@@ -1,2 +1,3 @@
-# evernode-24-resources
-This contains Evernode resources for Ubuntu 24.04
+# Evernode Resources
+
+This repository contains the Evernode public resources including scripts, binaries and configurations for Ubuntu 24.04
